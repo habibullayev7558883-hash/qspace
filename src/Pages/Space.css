@@ -1,0 +1,118 @@
+.space__title{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 145%;
+letter-spacing: 1px;
+text-align: center;
+color: #000000;
+margin-bottom: 80px;
+}
+
+.space__list{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 200px;
+}
+
+.space__item{
+    display: block;
+    width: 270px;
+    padding-top: 40px;padding-left: 18px;padding-right: 18px;padding-bottom: 48px;
+    text-align: center;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+}
+
+.office{
+    background-color: #FFF0D2;
+    text-align: center;
+}
+
+.space__cover{
+    width: 210px;
+    display: flex;
+    gap: 16px;
+}
+
+.space__box2{
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.space__box1{
+    width: 185px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.space__text{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #000000;
+margin-bottom: 8px;
+}
+
+.space__info{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 155%;
+letter-spacing: 0px;
+text-align: center;
+color: #000000;
+opacity: 0.6;
+}
+
+.space__desc{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 155%;
+letter-spacing: 0px;
+color: #000000;
+}
+
+
+.space__link-ofice{
+    display: block;
+    width: 192px;
+    padding-top: 16px;padding-bottom: 16px;
+    background-color: #FFB21E;
+    border-radius: 8px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.space__link{
+    display: block;
+    width: 192px;
+    padding-top: 16px;padding-bottom: 16px;
+    border: 1px solid #FFB21E1A;
+    border-radius: 8px;
+    margin: 0 auto;
+    color: #1254FF;
+}
+
+.desk{
+    color: #FFB21E;
+}
+

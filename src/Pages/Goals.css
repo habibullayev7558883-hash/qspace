@@ -1,0 +1,56 @@
+.goals__wrapper{
+    display: flex;
+    gap: 148px;
+    margin-bottom: 200px;
+}
+
+.goals__right{
+    display: flex;
+    flex-direction: column;
+}
+
+.goals__about{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 145%;
+letter-spacing: 1px;
+color: #000000;
+margin-bottom: 24px;
+}
+
+.goals__title{
+    font-family: Questrial;
+font-weight: 400;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 145%;
+letter-spacing: 0%;
+color: #000000;
+}
+
+.goals__box1{
+    width: 600px;
+    margin-bottom: 32px;
+}
+
+.goals__desc{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 155%;
+letter-spacing: 0%;
+color: #000000;
+}
+
+.goals__link{
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 24px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+color: #1254FF;
+}

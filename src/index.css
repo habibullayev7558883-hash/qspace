@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+body{
+    margin: 0 auto;
+    background-color: #FBFBFB;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+}
+
+h1, h2, h3{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
